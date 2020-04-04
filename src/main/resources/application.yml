@@ -2,7 +2,7 @@ server:
   port: 8080
 
 params:
-  one: qwe
+  one: qwesda
   two: dsfsdf
   three: jdskflsd
   four: dsflk5a
