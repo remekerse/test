@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+params:
+  one: qwe
+  two: dsf
+  three: jdskfl
+  four: dsflk
